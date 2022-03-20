@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SriCharan220800
-- 👀 I’m interested in something
+- 👀 I’m interested in nothing
 - 🌱 I’m currently learning nothing
 
 <!---
